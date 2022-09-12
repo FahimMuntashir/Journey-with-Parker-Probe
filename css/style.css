@@ -1,0 +1,16 @@
+body {
+  background-image: url("../images/cover.jpg");
+}
+
+.front-section{
+    align-items: center;align-content: center;
+}
+.heading-div{
+    align-items: center;
+    align-content: center;
+}
+
+.menu-vdo{
+    margin-left: 800px;
+
+}
