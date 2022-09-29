@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300&family=Source+Code+Pro:ital,wght@0,200;0,400;0,500;1,200&display=swap');
+
 /* Solar System */
 @import url('https://fonts.googleapis.com/css2?family=Acme&family=Bree+Serif&family=Lobster&family=PT+Sans+Narrow&family=Pacifico&family=Patua+One&family=Playfair+Display:ital,wght@1,700&family=Righteous&family=Sarabun:ital,wght@1,500&family=Ubuntu+Condensed&family=Ubuntu:wght@500&family=Dosis:wght@500&display=swap');
 * {box-sizing: border-box}
@@ -25,7 +27,7 @@ header {
     margin: 0px;
     font-size: 90px;
     color: white;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Poppins', sans-serif;
 }
 @media screen and (max-width: 800px) {
     #h1 {
