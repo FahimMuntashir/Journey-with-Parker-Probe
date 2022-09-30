@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,6 +9,7 @@
     <title>Solar System | 3D</title>
     <link rel="stylesheet" href="../css/solar_system.css">
 </head>
+
 <body>
     <header id="header">
         <a href="../index.html">
@@ -21,18 +23,44 @@
         <a href="./images.html">Images</a>
         <a href="./3D.html">3D</a>
         <a href="./videos.html">Videos</a>
-        <a href="./facts.html">Facts</a>
+        <!-- <a href="./facts.html">Facts</a> -->
         <a href="./game.html">Game</a>
     </nav>
     <div id="ifr3D" class="body">
         <iframe src="http://jeromeetienne.github.io/threex.planets/examples/select.html#Sun" frameborder="0"></iframe>
     </div>
-    <footer>
-        <nav class="navbar" id="navbar">
-            <a href="./about_us.html">About us</a>
-            <a href="./contact.html">Contact</a>
-        </nav><br>
-        <div id="cpr">Copyright &#169; </div>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+        * {
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            scroll-behavior: smooth;
+        }
+
+        .footer {
+            background-color: #000016;
+            color: #fff;
+            padding: 2em;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .footer-title {
+            font-size: 1.3em;
+            font-weight: lighter;
+            color: darkorange;
+        }
+    </style>
+    <footer class="footer">
+        <p class="footer-title">© All Rights Reserved - 2022</p>
+        <div class="copy">
+            <p>Invented & Developed by</p>
+            <a href="https://2022.spaceappschallenge.org/challenges/2022-challenges/on-the-way-to-the-sun/teams/expectation_zero/project"
+                target="_blank">EXPECTATION_ZERO</a>
+        </div>
     </footer>
     <script src="../js/solar_system.js"></script>
 </body>
