@@ -7,7 +7,7 @@
 https://fahimmuntashir.github.io/Journey-with-Parker-Probe/
 
 ## LINK TO PROJECT "DEMO":
-
+https://youtu.be/HLpOzBCTy2M
 
 ## DETAILED PROJECT DESCRIPTION:
 The National Aeronautics and Space Administration of the United States (NASA) tasked us with devising an original method of communicating to younger audiences the awe-inspiring story of Parker's record-breaking journey from Earth to the Sun and all of the obstacles it overcame along the way. We came up with the idea of using a video game as a medium to tell the tale. You are more than welcome to try out our newly created web application called solar scholar, which gives you the opportunity to experience what it could be like to utilize a Parker solar probe to simulate a voyage to the sun. If you are interested, you can find the application here. The Parker Solar Probe is now on a mission with the objective of "touching the surface of the Sun," and the spacecraft is currently going closer to the surface of the Sun than any other spacecraft has ever traveled in the history of space travel. As a direct result of this mission, our current conceptions about the Sun are going to be subjected to major modification.
@@ -32,7 +32,8 @@ Database: MySQL
 Tools: GitHub (Code Management), Trello (Team Management), Kdenlive (Video Editing)
 
 ## PROJECT LINKS:
-
+> Project Github: https://github.com/FahimMuntashir/Journey-with-Parker-Probe
+> 3D Model: https://fahimmuntashir.github.io/Journey-with-Parker-Probe/html/game.html
 
 ## Space Agency Data:
 NASA: In order to obtain information regarding the Parker Solar Probe.
